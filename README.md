@@ -1,2 +1,4 @@
-# cv-spring-2021
-computer vison spring 2021 suffs
+# Computer Vison  - spring 2021 
+## Projects and Practices
+## Sirjan Tech University
+
