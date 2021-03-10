@@ -5,8 +5,10 @@ __pycache__/
 /temp
 # C extensions
 *.so
-practices-1
-practices-2
+# practices-1
+# practices-2
+practices
+
 # Distribution / packaging
 .Python
 build/
