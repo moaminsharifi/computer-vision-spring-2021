@@ -42,3 +42,30 @@
 - **[Qustion 2 : Add image to Top Left of other image](#Qustion-2-:-Add-image-to-Top-Left-of-other-image)**
 
 - [Add Rain Effect in to your webcam Stream](notebooks/session_2.md#Add-Rain-Effect-in-to-your-webcam-Stream)
+
+
+## [Session 3 opencv](notebooks/session_3.md)
+## [Session 3 opencv NoteBook](notebooks/session_3.ipynb)
+### [slides ***session_3.pdf***](slides/session_3.pdf)
+#### Topics:
+- [Qustion 1](notebooks/session_3.md#Qustion-1):search about `cv2.cvtColor` and `cv2.threshold`
+    - [Python OpenCV | cv2.cvtColor() method](https://www.geeksforgeeks.org/python-opencv-cv2-cvtcolor-method/)
+    - [Image Thresholding - cv2.threshold](https://docs.opencv.org/master/d7/d4d/tutorial_py_thresholding.html)
+- cv.threshold
+- Draw in image
+- MASK in opencv
+----
+
+
+## [Session 4 opencv](notebooks/session_4.md)
+## [Session 4 opencv NoteBook](notebooks/session_4.ipynb)
+### [slides ***session_3.pdf***](slides/session_3.pdf)
+#### Topics:
+- [Qustion 1](#Qustion-1):RGB, HSV and CMYK
+    - [CMYK and RGB? HSV and HSL? Introducing the Chromatic Compendium!](https://dev.to/r4h33m/cmyk-and-rgb-hsv-and-hsl-introducing-the-chromatic-compendium-1d7)
+- [Filter Images](#Filter-Images)
+    - why we use fillters? for local process like delete noise with average fillter
+- [Types of Convolution Kernels](https://towardsdatascience.com/types-of-convolution-kernels-simplified-f040cb307c37)
+- make image blur
+----
+slides 3 - page 1-9
