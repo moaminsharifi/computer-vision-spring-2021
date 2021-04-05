@@ -67,5 +67,17 @@
     - why we use fillters? for local process like delete noise with average fillter
 - [Types of Convolution Kernels](https://towardsdatascience.com/types-of-convolution-kernels-simplified-f040cb307c37)
 - make image blur
-----
-slides 3 - page 1-9
+
+
+
+## [Session 5 opencv](notebooks/session_5.md)
+## [Session 5 opencv NoteBook](notebooks/session_5.ipynb)
+### [slides ***session_3.pdf***](slides/session_3.pdf)
+#### Topics:
+- project and add store text for ocr
+- Fliter Images recap
+- [Image Gradients](notebooks/session_5.md#Image-Gradients)
+    - [gradients doc](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_gradients/py_gradients.html)
+- [Canny edge detection algorithm](notebooks/session_5.md#Canny-edge-detection-algorithm)
+    - [Doc](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_canny/py_canny.html)
+
