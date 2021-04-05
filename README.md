@@ -1,6 +1,8 @@
 # Computer Vison With Python and opencv  - Spring 2021 
 ## Class Code, Projects and Practices
 ## Sirjan Tech University
+## Teacher: Elham Shabaninia
+
 ![cv-spring-2021.png](cv-spring-2021.png)
 ---
 # Sessions:
@@ -61,9 +63,9 @@
 ## [Session 4 opencv NoteBook](notebooks/session_4.ipynb)
 ### [slides ***session_3.pdf***](slides/session_3.pdf)
 #### Topics:
-- [Qustion 1](#Qustion-1):RGB, HSV and CMYK
+- [Qustion 1](notebooks/session_4.md#Qustion-1):RGB, HSV and CMYK
     - [CMYK and RGB? HSV and HSL? Introducing the Chromatic Compendium!](https://dev.to/r4h33m/cmyk-and-rgb-hsv-and-hsl-introducing-the-chromatic-compendium-1d7)
-- [Filter Images](#Filter-Images)
+- [Filter Images](notebooks/session_4.md#Filter-Images)
     - why we use fillters? for local process like delete noise with average fillter
 - [Types of Convolution Kernels](https://towardsdatascience.com/types-of-convolution-kernels-simplified-f040cb307c37)
 - make image blur
