@@ -83,3 +83,15 @@
 - [Canny edge detection algorithm](notebooks/session_5.md#Canny-edge-detection-algorithm)
     - [Doc](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_canny/py_canny.html)
 
+## [Session 6 opencv](notebooks/session_6.md)
+## [Session 6 opencv NoteBook](notebooks/session_6.ipynb)
+### [slides ***session_3.pdf***](slides/session_3.pdf)
+#### Topics:
+- [filter2D](notebooks/session_6.md#filter2D)
+- Image Histogram
+    - [cv.calcHist](notebooks/session_6.md#cv.calcHist)
+        - [Histograms Docs ](https://docs.opencv.org/master/d1/db7/tutorial_py_histogram_begins.html)
+    
+    - [cv2.equalizeHist](notebooks/session_6.md#cv2.equalizeHist)
+        - [histogram_equaliz docs](https://docs.opencv.org/master/d5/daf/tutorial_py_histogram_equalization.html)
+
