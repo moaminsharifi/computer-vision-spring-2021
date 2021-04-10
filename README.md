@@ -95,3 +95,20 @@
     - [cv2.equalizeHist](notebooks/session_6.md#cv2.equalizeHist)
         - [histogram_equaliz docs](https://docs.opencv.org/master/d5/daf/tutorial_py_histogram_equalization.html)
 
+## [Session 7 opencv](notebooks/session_7.md)
+## [Session 7 opencv NoteBook](notebooks/session_7.ipynb)
+### [slides ***session_4.pdf***](slides/session_4.pdf)
+#### Topics:
+- [cv2.equalizeHist](notebooks/session_7.md#cv2.equalizeHistb)
+    - [equalized Image vs Orginal](notebooks/session_7.md#equalized-Image-vs-Orginal)
+    - [histogram_equaliz docs](https://docs.opencv.org/master/d5/daf/tutorial_py_histogram_equalization.html)
+
+
+- [cv2.compareHist](notebooks/session_7.md#cv2.compareHist)
+     - [Histogram Comparison docs](https://docs.opencv.org/3.4/d8/dc8/tutorial_histogram_comparison.html)
+ 
+ 
+ - [cv2.calcBackProject](notebooks/session_7.md#cv2.calcBackProject)
+     - [Back Projection docs](https://docs.opencv.org/3.4/da/d7f/tutorial_back_projection.html)
+ 
+
