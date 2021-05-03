@@ -95,20 +95,39 @@
     - [cv2.equalizeHist](notebooks/session_6.md#cv2.equalizeHist)
         - [histogram_equaliz docs](https://docs.opencv.org/master/d5/daf/tutorial_py_histogram_equalization.html)
 
-## [Session 7 opencv](notebooks/session_7.md)
-## [Session 7 opencv NoteBook](notebooks/session_7.ipynb)
+## [Session 8 opencv](notebooks/session_8.md)
+## [Session 8 opencv NoteBook](notebooks/session_8.ipynb)
 ### [slides ***session_4.pdf***](slides/session_4.pdf)
 #### Topics:
-- [cv2.equalizeHist](notebooks/session_7.md#cv2.equalizeHistb)
-    - [equalized Image vs Orginal](notebooks/session_7.md#equalized-Image-vs-Orginal)
-    - [histogram_equaliz docs](https://docs.opencv.org/master/d5/daf/tutorial_py_histogram_equalization.html)
+- [cv2.morphologyEx](notebooks/session_8.md#cv2.morphologyEx)
+  
+    - [Morphological Transformations docs](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_morphological_ops/py_morphological_ops.html)
 
 
-- [cv2.compareHist](notebooks/session_7.md#cv2.compareHist)
-     - [Histogram Comparison docs](https://docs.opencv.org/3.4/d8/dc8/tutorial_histogram_comparison.html)
- 
- 
- - [cv2.calcBackProject](notebooks/session_7.md#cv2.calcBackProject)
-     - [Back Projection docs](https://docs.opencv.org/3.4/da/d7f/tutorial_back_projection.html)
- 
+## [Session 9 opencv](notebooks/session_9.md)
+## [Session 9 opencv NoteBook](notebooks/session_9.ipynb)
+### [slides ***session_4.pdf***](slides/session_4.pdf)
+#### Topics:
+- [cv2.morphologyEx](notebooks/session_9.md#cv2.morphologyEx)
+    - [Morphological Transformations docs](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_morphological_ops/py_morphological_ops.html)
+- [Hand Detector](notebooks/session_9.md#Hand-Detector)
 
+
+
+## [Session 10 opencv](notebooks/session_10.md)
+## [Session 10 opencv NoteBook](notebooks/session_10.ipynb)
+### [slides ***session_5.pdf***](slides/session_5.pdf)
+#### Topics:
+- [Hough transform](notebooks/session_10.md#Hough-transform)
+ - [Hough Line Transform doc](https://docs.opencv.org/3.4/d9/db0/tutorial_hough_lines.html)
+- [Probabilistic-Hough-Transform](notebooks/session_10.md#Probabilistic-Hough-Transform)
+- [lane Finder](notebooks/session_10.md#lane-Finder)
+
+
+
+## [Session 11 opencv](notebooks/session_11.md)
+## [Session 11 opencv NoteBook](notebooks/session_11.ipynb)
+### [slides ***session_5.pdf***](slides/session_5.pdf)
+#### Topics:
+- [Contours](notebooks/session_11.md#Contours)
+- [Detector](notebooks/session_11.md#Detector)
