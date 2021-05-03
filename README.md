@@ -1,7 +1,7 @@
 # Computer Vison With Python and opencv  - Spring 2021 
 ## Class Code, Projects and Practices
 ## Sirjan Tech University
-## Teacher: Elham Shabaninia
+## Teacher: [Elham Shabaninia](http://scholar.google.com/citations?user=SDD-PBkAAAAJ&hl=en)
 
 ![cv-spring-2021.png](cv-spring-2021.png)
 ---
